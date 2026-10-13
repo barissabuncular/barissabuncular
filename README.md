@@ -15,12 +15,10 @@ I make AI video for brands and build the pipelines behind it. My focus is consis
 
 ### Projects
 
-| | |
-|---|---|
-| [**ai-film-pipeline**](https://github.com/barissabuncular/ai-film-pipeline) | A local AI film pipeline on one 8 GB GPU: Z-Image keyframes, character LoRAs, Wan 2.2 image-to-video, SeedVR2 upscaling and frame-accurate Foley. It powers my Diablo story series. |
-| [**game-asset-pipeline**](https://github.com/barissabuncular/game-asset-pipeline) | A 3D-to-sprite pipeline with headless Blender rendering and in-engine validation harnesses (Godot). |
-| [**sprite-qc-agent**](https://github.com/barissabuncular/sprite-qc-agent) | An agentic generate, measure, revise loop on the Claude API, gated by a pixel-level QC harness. |
-| [**vn-art-pipeline**](https://github.com/barissabuncular/vn-art-pipeline) | A ComfyUI + SDXL production system: workflow-as-code, automated defect screening, character consistency. |
+- [**ai-film-pipeline**](https://github.com/barissabuncular/ai-film-pipeline): A local AI film pipeline on one 8 GB GPU: Z-Image keyframes, character LoRAs, Wan 2.2 image-to-video, SeedVR2 upscaling and frame-accurate Foley. It powers my Diablo story series.
+- [**game-asset-pipeline**](https://github.com/barissabuncular/game-asset-pipeline): A 3D-to-sprite pipeline with headless Blender rendering and in-engine validation harnesses (Godot).
+- [**sprite-qc-agent**](https://github.com/barissabuncular/sprite-qc-agent): An agentic generate, measure, revise loop on the Claude API, gated by a pixel-level QC harness.
+- [**vn-art-pipeline**](https://github.com/barissabuncular/vn-art-pipeline): A ComfyUI + SDXL production system: workflow-as-code, automated defect screening, character consistency.
 
 I set the architecture, the specs and the acceptance tests, and I build with AI coding agents (Claude Code).
 
