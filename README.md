@@ -2,7 +2,7 @@
 
 **AI Video Producer · Generative AI Engineer**, based in Istanbul and open to remote or hybrid work.
 
-I make AI video for brands and build the pipelines behind it. My focus is consistent AI casts, real products on screen, and sound that lands on the exact frame. I work in online tools such as Kling, Nano Banana Pro and ElevenLabs, and I can also run the whole pipeline locally on my own GPU.
+I make AI video for brands with professional online tools such as Kling, Nano Banana Pro and ElevenLabs. My focus is consistent AI casts, real products on screen, and sound that lands on the exact frame. I also build my own pipelines, including a fully local one, to develop methods the online tools don't offer yet.
 
 ### ▶ [Watch the portfolio: barissabuncular.github.io](https://barissabuncular.github.io)
 
