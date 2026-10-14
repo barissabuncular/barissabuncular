@@ -2,13 +2,13 @@
 
 **AI Video Producer · Generative AI Engineer**, based in Istanbul and open to remote or hybrid work.
 
-I make AI video for brands and build the pipelines behind it. My focus is consistent AI casts, real products on screen, and sound that lands on the exact frame.
+I make AI video for brands and build the pipelines behind it. My focus is consistent AI casts, real products on screen, and sound that lands on the exact frame. I work in online tools such as Kling, Nano Banana Pro and ElevenLabs, and I can also run the whole pipeline locally on my own GPU.
 
 ### ▶ [Watch the portfolio: barissabuncular.github.io](https://barissabuncular.github.io)
 
 [![Client ads and the AI cast of my Diablo series](banner.jpg)](https://barissabuncular.github.io)
 
-### Client work (2026, freelance through an agency)
+### Client work (2026, freelance through an agency, made with online tools)
 
 - **Minicenter: rebrand announcement.** A 36 s, 9:16 Instagram ad for a mom & baby retail chain. It uses a consistent photoreal AI cast of three wearing the client's real products. Built with Nano Banana Pro and Kling 3.0, with the edit done as code (Python + ffmpeg). The client approved it after about six revision rounds in eight days.
 - **Fashion ad: the elevator.** A 12 s, 9:16 ad for a clothing brand. One consistent AI model wears three outfits, cut on the elevator doors.
@@ -24,7 +24,8 @@ I set the architecture, the specs and the acceptance tests, and I build with AI 
 
 ### Toolkit
 
-- **Video & image:** Kling 3.0 · Nano Banana Pro · ElevenLabs · Wan 2.2 · Z-Image · ComfyUI · SDXL · LoRA training
+- **Online tools:** Kling 3.0 · Nano Banana Pro · ElevenLabs (voice, music, sound effects, image, video)
+- **Local, open models:** ComfyUI · Wan 2.2 · Z-Image · SDXL · Qwen-Image-Edit · SeedVR2 · character LoRA training
 - **Sound:** frame-accurate Foley and sync · ElevenLabs · Qwen3-TTS · ACE-Step
 - **Engineering:** Python · ffmpeg · Claude Code / Claude API · Blender scripting · Godot
 
